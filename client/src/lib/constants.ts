@@ -8,12 +8,12 @@ export const personalInfo = {
     "I specialize in creating responsive, user-friendly interfaces with React and building accessible web experiences that work across all devices. I enjoy collaborating with designers and backend developers to bring ideas to life.",
     "When I'm not coding, you can find me hiking in the mountains, reading sci-fi novels, or experimenting with new cooking recipes."
   ],
-  profileImage: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+  profileImage: "https://media.licdn.com/dms/image/v2/D5603AQFaKlczSGM_Dw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684393217150?e=1750896000&v=beta&t=yszlYyxWGCYiYmPo7Zt28VbSvlSJgcIV9SHwWwuN6SM",
   email: "albinussoren025@gmail.com",
   phone: "+91 7779980320",
-  location: "Dumka, Jharkhande, India",
+  location: "Dumka, Jharkhand, India",
   birthday: "Jan 10, 2000",
-  Diploma: "ICTSM in Dumka",
+  diploma: "ICTSM in Dumka",
   social: {
     linkedin: "https://www.linkedin.com/in/albinussoren/",
     github: "https://github.com/albinussor",
