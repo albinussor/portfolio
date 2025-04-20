@@ -1,6 +1,6 @@
 // Personal Information
 export const personalInfo = {
-  name: "John Doe",
+  name: "Albinus Soren",
   tagline: "Frontend Developer",
   shortBio: "Crafting beautiful user experiences with modern web technologies. Passionate about clean code and intuitive interfaces.",
   aboutMe: [
@@ -9,16 +9,16 @@ export const personalInfo = {
     "When I'm not coding, you can find me hiking in the mountains, reading sci-fi novels, or experimenting with new cooking recipes."
   ],
   profileImage: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
-  email: "john.doe@example.com",
-  phone: "+91 9876543210",
-  location: "Mumbai, India",
-  birthday: "May 10, 1995",
-  degree: "B.Tech in CS",
+  email: "albinussoren025@gmail.com",
+  phone: "+91 7779980320",
+  location: "Dumka, Jharkhande, India",
+  birthday: "Jan 10, 2000",
+  Diploma: "ICTSM in Dumka",
   social: {
-    linkedin: "https://linkedin.com/in/johndoe",
-    github: "https://github.com/johndoe",
-    twitter: "https://twitter.com/johndoe",
-    instagram: "https://instagram.com/johndoe"
+    linkedin: "https://www.linkedin.com/in/albinussoren/",
+    github: "https://github.com/albinussor",
+    twitter: "https://twitter.com/techbinusb",
+    instagram: "https://instagram.com/albinus_soren_"
   }
 };
 
@@ -27,9 +27,9 @@ export const skills = {
   technical: [
     { name: "HTML & CSS", level: 95 },
     { name: "JavaScript", level: 90 },
-    { name: "React", level: 85 },
+    { name: "React", level: 60 },
     { name: "Node.js", level: 75 },
-    { name: "Python", level: 70 }
+    { name: "Python", level: 65 }
   ],
   soft: [
     { name: "Communication", level: 90 },
@@ -39,11 +39,10 @@ export const skills = {
     { name: "Adaptability", level: 85 }
   ],
   tools: [
-    { name: "VS Code", level: 95 },
-    { name: "Git & GitHub", level: 90 },
-    { name: "Figma", level: 80 },
+    { name: "VS Code", level: 90 },
+    { name: "Git & GitHub", level: 70 },
+    { name: "Figma", level: 75 },
     { name: "Docker", level: 75 },
-    { name: "Adobe XD", level: 70 }
   ]
 };
 
@@ -81,23 +80,13 @@ export const projects = [
 // Education
 export const education = [
   {
-    period: "2014 - 2018",
-    degree: "Bachelor of Technology in Computer Science",
-    institution: "IIT Mumbai",
-    description: "Graduated with First Class Honors. Specialized in Web Technologies and Artificial Intelligence."
+    period: "2022 - 2024",
+    diploma: "Information and Communication Technology System Maintenance",
+    institution: "Government ITI Dumka",
+    description: "Completed a comprehensive two-year program focused on computer hardware, networking, software installation, system troubleshooting, and IT support. Gained hands-on experience in maintaining communication systems, managing ICT infrastructure, and resolving technical issues efficiently."
+
   },
-  {
-    period: "2019 - 2021",
-    degree: "Master of Computer Applications",
-    institution: "Delhi University",
-    description: "Focused on Advanced Software Development and System Design. Completed thesis on \"Responsive Web Design Patterns\"."
-  },
-  {
-    period: "2022",
-    degree: "Full Stack Web Development Certification",
-    institution: "Udemy",
-    description: "Comprehensive program covering modern web technologies including React, Node.js, and MongoDB."
-  }
+  
 ];
 
 // Experience
